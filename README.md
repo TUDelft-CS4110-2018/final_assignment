@@ -29,7 +29,8 @@ Your video will be evaluated on the following criteria:
    * Clarity of presentation
    * Quality of observations
    * Quality of argumentation (e.g., how can the observations be explained) 
-   * Quality of the argumentation when comparing with Inozemtseva
+   * Quality of the argumentation when comparing with Inozemtseva (see: http://doi.acm.org/10.1145/2635868.2635929)
+   
 You can get extra credit when you highlight other interesting insights that you’ve generated while performing this study.
 
 **Aim for a presentation between 5 and 10 minutes.**
