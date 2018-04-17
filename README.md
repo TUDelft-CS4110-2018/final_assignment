@@ -35,4 +35,5 @@ You can get extra credit when you highlight other interesting insights that youâ
 
 **Aim for a presentation between 5 and 10 minutes.**
 
-You will need to upload the presentation to Youtube. Remember to make the presentation private. You will get a link to a website to register your Youtube URL later on.
+You will need to upload the presentation to Youtube. Remember to make the presentation private!
+Provide us with the URL of your video through this form: https://docs.google.com/forms/d/e/1FAIpQLScWPEQYOz5rfGqwkv79HyhwYmio9xPZmA-pYa2Wx2VvrHfbnQ/viewform?usp=sf_link
